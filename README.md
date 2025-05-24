@@ -1,7 +1,3 @@
-Here’s an updated and expanded version of the `README.md` file that includes content for your latest exercise (training an SVC model using `.fit()`), along with improved structure and clarity:
-
----
-
 # 🧠 Machine Learning Exercises – Python Practice
 
 Welcome to this beginner-friendly repository of **interactive machine learning exercises using Python**! These short coding tasks are designed to give you hands-on experience with machine learning tools and concepts such as data loading, preprocessing, model training, and evaluation using libraries like `pandas`, `numpy`, `scikit-learn`, and `matplotlib`.
