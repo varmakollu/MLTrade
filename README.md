@@ -57,6 +57,22 @@ Welcome to this beginner-friendly repository of **interactive machine learning e
   svc = SVC()
   clf = svc.fit(X_train, y_train)
   ```
+---
+
+### 5. Predicting Trading Signals
+* **Objective:** Predict future buy/sell signals using the trained SVC model.
+
+* **Key Concepts:**
+
+  * Using the predict() method on the entire dataset
+
+  * Adding prediction results to the DataFrame
+
+* **Code:**
+
+```python
+Df['Predicted_Signal'] = clf.predict(X)
+```
 
 ---
 
